@@ -14,7 +14,7 @@ Welcome to my AI project portfolio! This repository showcases a selection of my 
 1. **[Warehouse Optimization with Deep Q-Learning](Projects/Deep_Q_Learning_Warehouse_Optimization)**
    - **Overview**: This project focuses on optimizing warehouse item placement and retrieval using Deep Q-Learning, achieving improved efficiency in item storage and picking.
 
-2. **[Lunar Landing with Deep Q-Learning](Projects/Deep_Q_Learning_Lunar_Lander)**
+2. **[Lunar Landing with Deep Q-Learning](Projects/Lunar Landing with Deep Q-Learning)**
    - **Overview**: Trained an agent to control a lunar module in OpenAI Gym's Lunar Lander environment, demonstrating the use of Deep Q-Learning in a simulated control task.
 
 3. **[Pac-Man Agent with Deep Convolutional Q-Learning](Projects/Deep_Conv_Q_Learning_PacMan)**
