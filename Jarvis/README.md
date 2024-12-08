@@ -37,9 +37,7 @@ cd jarvis-ai
 3. Run the training script:
    ```bash
    python jarvis.py
-## Music Commands
 
-Here are some predefined music commands and their corresponding songs:
 ## Music Commands
 Here are some predefined music commands and their corresponding songs:
   
